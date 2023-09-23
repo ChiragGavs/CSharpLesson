@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "C4O1Wt+SsXaAe7oAlqH4nOemv6Zc1J2JI5bem8vkzpM=",
+  "Source": "LibraryA",
+  "BasePath": "_content/LibraryA",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LibraryA\\wwwroot",
+      "Source": "LibraryA",
+      "ContentRoot": "C:\\Users\\chirag.rohilla\\source\\repos\\LibraryA\\LibraryA\\wwwroot\\",
+      "BasePath": "_content/LibraryA",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\chirag.rohilla\\source\\repos\\LibraryA\\LibraryA\\obj\\Debug\\net6.0\\scopedcss\\bundle\\LibraryA.styles.css",
+      "SourceId": "LibraryA",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\chirag.rohilla\\source\\repos\\LibraryA\\LibraryA\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/LibraryA",
+      "RelativePath": "LibraryA.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\chirag.rohilla\\source\\repos\\LibraryA\\LibraryA\\obj\\Debug\\net6.0\\scopedcss\\bundle\\LibraryA.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\chirag.rohilla\\source\\repos\\LibraryA\\LibraryA\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\LibraryA.bundle.scp.css",
+      "SourceId": "LibraryA",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\chirag.rohilla\\source\\repos\\LibraryA\\LibraryA\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/LibraryA",
+      "RelativePath": "LibraryA.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\chirag.rohilla\\source\\repos\\LibraryA\\LibraryA\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\LibraryA.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\chirag.rohilla\\source\\repos\\LibraryA\\LibraryA\\wwwroot\\background.png",
+      "SourceId": "LibraryA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chirag.rohilla\\source\\repos\\LibraryA\\LibraryA\\wwwroot\\",
+      "BasePath": "_content/LibraryA",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Users\\chirag.rohilla\\source\\repos\\LibraryA\\LibraryA\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "LibraryA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chirag.rohilla\\source\\repos\\LibraryA\\LibraryA\\wwwroot\\",
+      "BasePath": "_content/LibraryA",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}

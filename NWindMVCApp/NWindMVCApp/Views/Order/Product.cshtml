@@ -1,0 +1,18 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@using (Html.BeginForm("ProductDetail", "Product", FormMethod.Get))
+{
+    <div>
+        <label for="orderid">Product ID</label>
+        <select id="orderid" name="id" size="1">
+            @foreach (var oid in Model)
+            {
+                <option value="@oid.ProductId">@oid.ProductId</option>
+            }
+        </select>
+        <button type="submit">Submit</button>
+    </div>
+}

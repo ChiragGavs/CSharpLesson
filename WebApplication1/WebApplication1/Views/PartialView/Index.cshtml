@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+
+
+
+
+<div>
+    <a asp-action="Add" asp-controller="Calculator"
+    asp-route-x="258" asp-route-y="6">Call Add</a>
+</div>
+
+@await Html.PartialAsync("ChildList")

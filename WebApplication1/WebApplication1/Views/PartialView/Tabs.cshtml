@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Tabs";
+}
+<hr />
+<div>
+    <ul id="tabstrip" class="nav nav-tab" role="tablist">
+        <li class="active">
+            <a href="#_FirstTabs" role ="tab" data-toggle="tab">Submission</a>
+        </liC>
+        <li>
+            <a href="#_SecondTabs" role="tab" data-toggle="tab">Search</a>
+        </li>
+        <li>
+            <a href="#_ThirdTabs" role="tab" data-toggle="tab">Comment</a>
+        </li>
+    </ul>
+</div>
+
+<div class="tab-content">
+    <div class="tab-pane fade in active" id="_FirstTab">
+        <partial name="Score"/>
+    </div>
+    <div class="tab-pane fade " id="_SecondTab">
+        <partial name="ChildList" />
+    </div>
+    <div class="tab-pane fade " id="_ThirdTab">
+        <partial name="ChildViewData" view-data="ViewData" />
+    </div>
+</div>
+<hr/>
+<partial name="Score" />
+<partial name="ChildList" />
+<partial name="ChildViewData" view-data="ViewData" />

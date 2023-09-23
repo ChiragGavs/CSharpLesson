@@ -1,0 +1,14 @@
+C:\Users\chirag.rohilla\source\repos\CSharpLearner\CSharpLearner\obj\Debug\net6.0\CSharpLearner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chirag.rohilla\source\repos\CSharpLearner\CSharpLearner\obj\Debug\net6.0\CSharpLearner.AssemblyInfoInputs.cache
+C:\Users\chirag.rohilla\source\repos\CSharpLearner\CSharpLearner\obj\Debug\net6.0\CSharpLearner.AssemblyInfo.cs
+C:\Users\chirag.rohilla\source\repos\CSharpLearner\CSharpLearner\obj\Debug\net6.0\CSharpLearner.csproj.CoreCompileInputs.cache
+C:\Users\chirag.rohilla\source\repos\CSharpLearner\CSharpLearner\bin\Debug\net6.0\CSharpLearner.exe
+C:\Users\chirag.rohilla\source\repos\CSharpLearner\CSharpLearner\bin\Debug\net6.0\CSharpLearner.deps.json
+C:\Users\chirag.rohilla\source\repos\CSharpLearner\CSharpLearner\bin\Debug\net6.0\CSharpLearner.runtimeconfig.json
+C:\Users\chirag.rohilla\source\repos\CSharpLearner\CSharpLearner\bin\Debug\net6.0\CSharpLearner.dll
+C:\Users\chirag.rohilla\source\repos\CSharpLearner\CSharpLearner\bin\Debug\net6.0\CSharpLearner.pdb
+C:\Users\chirag.rohilla\source\repos\CSharpLearner\CSharpLearner\obj\Debug\net6.0\CSharpLearner.dll
+C:\Users\chirag.rohilla\source\repos\CSharpLearner\CSharpLearner\obj\Debug\net6.0\refint\CSharpLearner.dll
+C:\Users\chirag.rohilla\source\repos\CSharpLearner\CSharpLearner\obj\Debug\net6.0\CSharpLearner.pdb
+C:\Users\chirag.rohilla\source\repos\CSharpLearner\CSharpLearner\obj\Debug\net6.0\CSharpLearner.genruntimeconfig.cache
+C:\Users\chirag.rohilla\source\repos\CSharpLearner\CSharpLearner\obj\Debug\net6.0\ref\CSharpLearner.dll
